@@ -1,3 +1,4 @@
+//model 2
 const mongoose = require("mongoose");
 
 const marineSchema = new mongoose.Schema({

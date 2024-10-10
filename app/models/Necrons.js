@@ -1,3 +1,5 @@
+//model 1
+
 const mongoose = require("mongoose");
 
 const necronsSchema = new mongoose.Schema({
